@@ -1,5 +1,5 @@
-# hardcore-gym-eda
-“Data cleaning, exploratory analysis, and business insights for Hardcore Gym members to support data-driven decisions.”
+# Hardcore Gym EDA
+Welcome to the Hardcore Gym Exploratory Data Analysis (EDA) project! This repository dives into gym usage patterns to uncover insights that can help improve member engagement, optimize operations, and personalize fitness experiences.
 
 # Hardcore Gym – Data Cleaning & EDA Portfolio
 
@@ -32,5 +32,21 @@ The goal is to help gym owners make data-driven decisions by understanding **mem
 
 ---
 
-## File Structure
+# File Structure
+## GYM_EDA-ipynb 
+A Jupyter Notebook showcasing the full EDA workflow—data cleaning, visualization, and interpretation.
+Ideal for data enthusiasts and developers.
 
+## GYM_EDA-pdf 
+- A clean, readable summary of the notebook for quick reference. 
+- Perfect for non-technical stakeholders who want to understand the findings without diving into code.
+
+## Business Recommendations Report 
+- A concise, insight-driven document outlining actionable strategies based on the data analysis.
+
+## Who Is This For?
+## Technical users: 
+- Data scientists, analysts, and developers looking for a practical EDA example.
+
+## Non-technical users: 
+- Gym managers, marketers, and curious minds who want actionable insights without the technical jargon.
